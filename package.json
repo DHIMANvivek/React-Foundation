@@ -6,7 +6,7 @@
     "start": "parcel src/index.html src/index.html",
     "test": "jest",
     "build:css": "postcss src/index.css --dir src -w",
-    "build": "parcel build index.html"
+    "build": "parcel build src/index.html"
   },
   "author": "Vivek Dhiman",
   "license": "ISC",
